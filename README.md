@@ -12,12 +12,12 @@
 
 - [Open GitHub API](https://docs.github.com/en/rest?apiVersion=2022-11-28)
   - `/user` - получение данные о пользователе
-    params: `username`
+    - params: `username`
   - `/repository` - получение данные об определённом репозитории пользователя
-    params: `ownerLogin`, `repositoryName` 
+    - params: `ownerLogin`, `repositoryName` 
   - `/organization` - получение данных об организации
-    params: `organizationName`
+    - params: `organizationName`
   - `/latest-release` - получение данных о последней версии определённого репозитория
-    params: `ownerLogin`, `repositoryName`
+    - params: `ownerLogin`, `repositoryName`
   - `/followers` - получение данных о фоллверах пользователя
-    params: `username`
+    - params: `username`
