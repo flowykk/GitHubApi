@@ -24,7 +24,7 @@
     params: `username`
 
 
-- [OpenWeatherApi](https://openweathermap.org/api)
+- [OpenWeatherAPI](https://openweathermap.org/api)
   - `/weather` - данные о погоде на текущий момент времени 
   - `/forecast` - прогноз погоды на 5 дней, с данными за каждые 3 часа
   - `/historical` - исторические данные о погоде
